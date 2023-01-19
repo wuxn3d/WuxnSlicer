@@ -44,6 +44,14 @@ The following is a list of the updates:
 + Updated the default Print Profile Setttings from "Fine" to "GoTo".
 + All icons have been updated to reflect Wuxn's new logo.
 
+## **WuxnSlicer 2.0.0**
+
+WuxnSlicer 2.0.0 marks the first official release of our 3D printer software. With this new release experience the power and efficient of the archane engine along with enchanced print settings.  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65782241/213571241-ed40a738-4af3-4141-a64a-d90bd7da3db3.png"
+</p>
+
 # Compiling
 
 <details>
