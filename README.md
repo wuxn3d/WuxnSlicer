@@ -435,8 +435,6 @@ sudo xcrun altool --notarization-info {RequestUUID} -u {email}
 `sudo xcrun stapler staple "WuxnSlicer-{version}.dmg"`
 </details>
 
------------------------------------------------------------------------
-
 <details>
 <summary>One time set up for Windows</summary>
 <br>
