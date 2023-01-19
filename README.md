@@ -46,7 +46,16 @@ The following is a list of the updates:
 
 ## **WuxnSlicer 2.0.0**
 
-WuxnSlicer 2.0.0 marks the first official release of our 3D printer software. With this new release experience the power and efficient of the archane engine along with enchanced print settings.  
+WuxnSlicer 2.0.0 marks the first official release of our 3D printer software. With this new release experience the power and efficient of the Arachne Engine along with enchanced print settings. Now with over 3000+ pre configured settings experience high level print quality and fast print speeds.
+
+WuxnSlicer 2.0.0 updates:
++ Cura Engine updated to Arachne Engine
++ 10 added material settings
++ 30 added print profile settings
++ Reduced excessive launch and slicing time
++ Improved tree and normal support settings
++ Clean install, unistall, and update procedure
++ Enhanced installation process
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213571241-ed40a738-4af3-4141-a64a-d90bd7da3db3.png"
