@@ -47,6 +47,12 @@ WuxnSlicer 1.2.7 is the candidate developed to improve user experience and addre
 
 # Compiling
 
+<details>
+<summary>One time set up for MacOS</summary>
+<br>
+This is how you dropdown.
+</details>
+
 ## One time set up for MacOS
 
 ## Xcode & Command Line Tools
