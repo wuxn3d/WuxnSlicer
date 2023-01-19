@@ -11,8 +11,8 @@ WuxnSlicer is the recommended software for converting 3D objects into specific i
 
 ## Installers
 
-This repository contains the WuxnSlicer installers for both Macintosh and Windows.
-The latest version of WuxnSlicer can be downloaded from our website https://wuxn3d.com/pages/software-firmware.
+This repository contains the source code needed to compile and build WuxnSlicer software. 
+To use WuxnSlicer as intended please download our installers from our website https://wuxn3d.com/pages/software-firmware.
 
 # Change Log
 
