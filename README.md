@@ -10,7 +10,7 @@ WuxnSlicer Main Features:
 + Basic slicing features and G-Code viewer
 + Pre-built Wuxn machine files
 + Pre-built Wuxn & Generic material profiles 
-+ Enhanced GoTo, Strong, or Fast print profiles
++ Enhanced GoTo, Strong, and Fast print profiles
 + Improved material and print profile selection process
 + Custom Wuxn branded UI enhancements
 + Both Macintosh and Windows supported
