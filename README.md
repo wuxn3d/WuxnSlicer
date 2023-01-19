@@ -10,12 +10,12 @@ WuxnSlicer is the recommended software for converting 3D objects into specific i
 </p>
 
 WuxnSlicer Main Features:
-+ Basic slicing features and G-Code viewer.
++ Basic slicing features and G-Code viewer
 + Pre-built Wuxn machine files
-+ Pre-built Wuxn & Generic material profiles. 
-+ Enhanced GoTo, Strong, or Fast print profiles.
-+ Improved material and print profile selection process.
-+ Custom Wuxn branded UI enhancements.
++ Pre-built Wuxn & Generic material profiles 
++ Enhanced GoTo, Strong, or Fast print profiles
++ Improved material and print profile selection process
++ Custom Wuxn branded UI enhancements
 + Both Macintosh and Windows supported
 
 ## Installers
