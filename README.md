@@ -50,11 +50,6 @@ WuxnSlicer 1.2.7 is the candidate developed to improve user experience and addre
 <details>
 <summary>One time set up for MacOS</summary>
 <br>
-This is how you dropdown.
-</details>
-
-## One time set up for MacOS
-
 ## Xcode & Command Line Tools
 
 1. Go to the Mac App Store, search for "Xcode" and press "Get".
@@ -438,6 +433,7 @@ sudo xcrun altool --notarization-info {RequestUUID} -u {email}
 **Staple the dmg for MacOS**
 
 `sudo xcrun stapler staple "WuxnSlicer-{version}.dmg"`
+</details>
 
 -----------------------------------------------------------------------
 
