@@ -45,7 +45,7 @@ WuxnSlicer 1.2.7 is the candidate developed to improve user experience and addre
 + All icons have been updated to reflect Wuxn's new logo.
 <img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png">
 
-## Compiling
+# Compiling
 
 ## One time set up for MacOS
 
@@ -790,7 +790,7 @@ git clone https://github.com/wuxn3d/WuxnSlicer.git C:\dev\Wuxn
 
 `signtool.exe sign /f .\{filename}.pfx /p "{password}" /d "Wuxn3d" /tr http://timestamp.digicert.com /v WuxnSlicer-{version}-win32.msi`
 
-#License 
+# License 
 
 <footer>
 Published by Wuxn LLC. 
