@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Generic</brand>
+      <material>PLA</material>
+      <color>Generic</color>
+      <label>PLA</label>
+    </name>
+    <version>6</version>
+    <color_code>#F7B32D</color_code>
+    <description>PLA is used by Wuxn for fit-check pieces and non-functional parts. As a corn byproduct-based material, PLA is a great starter filament, easy to work with, with minimal negative impacts. Given its ease of use, Wuxn prefers to use it for large-format parts that require dimensional stability due to its low shrinkage.</description>
+    <adhesion_info>Print Generic PLA on the Wuxn BuildTak Surface at 60 degrees Celsuis. Clean the surface regularly with 99% isopropyl alcohol.</adhesion_info>
+    <GUID>8bf0ae24-f7be-4b15-b04b-4beba970c82c</GUID>
+  </metadata>
+  <properties>
+    <diameter>1.75</diameter>
+    <density>1.24</density>
+  </properties>
+  <settings>
+    <setting key="print temperature">210.0</setting>
+    <setting key="heated bed temperature">60.0</setting>
+    <setting key="standby temperature">170.0</setting>
+    <setting key="retraction amount">0.8</setting>
+    <setting key="retraction speed">25.0</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="build volume temperature">20</setting>
+  </settings>
+</fdmmaterial>

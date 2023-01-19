@@ -1,0 +1,60 @@
+{
+    "version": 2.0,
+    "name": "Wuxn WXR",
+    "inherits": "fdmprinter",
+    "metadata": {
+        "visible": true,
+        "author": "Isaac Fardig at Wuxn LLC",
+        "manufacturer": "Wuxn3D",
+        "file_formats": "text/x-gcode;application/gzip",
+        "platform": "Wuxn_WXR_Buildplate.obj",
+        "platform_texture": "Wuxn_WXR_Graphic.png",
+        "platform_offset": [0, -0.3, 0],
+        "has_materials": true,
+        "preferred_material": "Wuxn Classic PLA",
+        "preferred_quality_type": "normal",
+        "machine_extruder_trains":
+        {
+            "0": "Wuxn_WXR_extruder"
+        },
+        "supports_usb_connection": true,
+        "supports_network_connection": false
+    },
+
+    "overrides": {
+        "machine_name": { "default_value": "Wuxn WXR" },
+        "machine_buildplate_type": { "default_value": "BuildTak Textured PEI"},
+        "machine_heated_bed": { "default_value": true },
+        "machine_width": { "default_value": 250 },
+        "machine_height": { "default_value": 250 },
+        "machine_depth": { "default_value": 210 },
+        "machine_shape": { "default_value": "rectangular"},
+        "machine_center_is_zero": { "default_value": false },
+        "material_diameter": { "default_value": 1.75 },
+        "machine_nozzle_size": { "default_value": 0.4 },
+        "layer_height": { "default_value": 0.2 },
+        "layer_height_0": { "default_value": 0.25 },
+        "retraction_amount": { "default_value": 0.8 },
+        "retraction_speed": { "default_value": 25 },
+        "adhesion_type": { "default_value": "none" },
+        "machine_max_feedrate_x": { "value": 200 },
+        "machine_max_feedrate_y": { "value": 200 },
+        "machine_max_feedrate_z": { "default_value": 12 },
+        "machine_max_feedrate_e": { "default_value": 120 },
+        "machine_max_acceleration_x": { "value": 1000 },
+        "machine_max_acceleration_y": { "value": 1000 },
+        "machine_max_acceleration_z": { "value": 200 },
+        "machine_max_acceleration_e": { "value": 5000 },
+        "machine_acceleration": { "default_value": 500 },
+        "machine_max_jerk_xy": { "default_value":  10 },
+        "machine_max_jerk_z": { "default_value": 0.45 },
+        "machine_max_jerk_e": { "default_value": 4.5 },
+        "machine_gcode_flavor": { "default_value": "RepRap (Marlin/Sprinter)" },
+        "machine_start_gcode": {
+            "default_value": "M220 S100\nM204 S1250\nG92 E0\nG1 F700 E-1\nM104 S{material_print_temperature}\nM140 S{material_bed_temperature}\nM109 S170\nG28 X\nG0 F8000 X1\nG28 Y\nG0 F8000 Y1\nG28 Z\nM190 S{material_bed_temperature}\nG34 I20 T0.1\nG29\nM121\nG0 F8000 X40 Y-20\nG0 F480 Z1\nG92 E0\nM109 S{material_print_temperature}\nG1 F450 X140 E25\nG92 E0\nG0 F480 Z0.0\nM120\nM220 S100"
+        },
+        "machine_end_gcode": {
+            "default_value": "G91\nG0 F480 Z2\nG90\nM420 S0\nG0 F8000 X10 Y209\nM107\nM104 S0\nM140 S0\nM84 X Y E\nM220 S100"
+        }
+    }
+}

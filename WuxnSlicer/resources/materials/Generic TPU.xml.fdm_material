@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Generic</brand>
+      <material>TPU</material>
+      <color>Generic</color>
+      <label>TPU</label>
+    </name>
+    <version>10</version>
+    <color_code>#2161AF</color_code>
+    <description>Generic TPU is a flexible material. The Wuxn team will use this material to print items such as soft grib handles, machine feet/standoffs, and other vibration dampening parts. </description>
+    <adhesion_info>Print Generic TPU on the Wuxn BuildTak Surface at room temperature. Apply a layer of glue stick to the surface to avoid the TPU filament from damaging the surface.</adhesion_info>
+    <GUID>5d7f3018-71af-44ea-8309-8d2d644135a2</GUID>
+  </metadata>
+  <properties>
+    <diameter>1.75</diameter>
+    <density>1.21</density>
+  </properties>
+  <settings>
+    <setting key="print temperature">200.0</setting>
+    <setting key="heated bed temperature">30.0</setting>
+    <setting key="standby temperature">170.0</setting>
+    <setting key="retraction amount">0.8</setting>
+    <setting key="retraction speed">25.0</setting>
+    <setting key="print cooling">20.0</setting>
+    <setting key="build volume temperature">20</setting>
+  </settings>
+</fdmmaterial>

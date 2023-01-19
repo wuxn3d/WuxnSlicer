@@ -1,0 +1,16 @@
+{
+    "version": 2.0,
+    "name": "Extruder 1",
+    "inherits": "fdmextruder",
+    "metadata": {
+        "machine": "Wuxn_WXR",
+        "author": "Isaac Fardig at Wuxn LLC",
+        "manufacturer": "Wuxn3D",
+        "position": "0"
+    },
+
+    "overrides": {
+        "machine_nozzle_size": { "default_value": 0.4 },
+        "material_diameter": { "default_value": 1.75 }
+    }
+}
