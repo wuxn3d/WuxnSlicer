@@ -3,7 +3,7 @@
 WuxnSlicer is the recommended software for converting 3D objects into specific instructions for Wuxn 3D printers. The WuxnSlicer engine is based on version 5.2.1 of the CuraEngine open-source slicer project. WuxnSlicer + Wuxn Printers + Wuxn Filament have been engineered to optimize print performance, quality, strength, and speed.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65782241/205957565-7bef4e33-c5ad-495b-ad97-04543e65d5ec.png" width=40% height=40%>
+  <img src="https://user-images.githubusercontent.com/65782241/213564062-9675fca0-583b-404a-a426-4339477dbb4b.JPG"
 </p>
 
 WuxnSlicer Main Features:
