@@ -15,13 +15,13 @@ WuxnSlicer Main Features:
 + Pre-built Wuxn & Generic material profiles. 
 + Enhanced GoTo, Strong, or Fast print profiles.
 + Improved material and print profile selection process.
-+ Custom Wuxn brand UI enhancements.
++ Custom Wuxn branded UI enhancements.
 + Both Macintosh and Windows supported
 
 ## Installers
 
 This repository contains the source code needed to compile and build WuxnSlicer software. 
-To use WuxnSlicer as intended please download our installers from our website https://wuxn3d.com/pages/software-firmware.
+To use WuxnSlicer as intended please download our installers from our website at https://wuxn3d.com/pages/software-firmware.
 
 # Change Log
 
