@@ -66,7 +66,7 @@ Simply upload your 3D model into WuxnSlicer and slice the object with the precon
 # Compiling
 
 <details>
-<summary>One time set up for MacOS</summary>
+<summary>One-time set up for MacOS</summary>
 <br>
 
 ## Xcode & Command Line Tools
@@ -455,7 +455,7 @@ sudo xcrun altool --notarization-info {RequestUUID} -u {email}
 </details>
 
 <details>
-<summary>One time set up for Windows</summary>
+<summary>One-time set up for Windows</summary>
 <br>
 
 ### Note
