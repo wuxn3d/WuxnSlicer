@@ -34,7 +34,6 @@ Simply upload your 3D model into WuxnSlicer and slice the object with the precon
 
 ## **WuxnSlicer 1.2.7**
 
-<img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png" width=10% height=10%>
 WuxnSlicer 1.2.7 is the candidate developed to improve user experience and address numerous issues. 
 
 The following is a list of the updates: 
@@ -43,6 +42,7 @@ The following is a list of the updates:
 + Cleaned up duplicate and out-dated entries in the Print Profile settings.
 + Updated the default Print Profile Setttings from "Fine" to "GoTo".
 + All icons have been updated to reflect Wuxn's new logo.
+<img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png" width=10% height=10%>
 
 ## **WuxnSlicer 2.0.0**
 
