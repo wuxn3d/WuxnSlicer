@@ -12,39 +12,15 @@ WuxnSlicer Main Features:
 + Pre-built Wuxn & Generic material profiles 
 + Enhanced GoTo, Strong, and Fast print profiles
 + Improved material and print profile selection process
-+ Custom Wuxn branded UI enhancements
-+ Both Macintosh and Windows supported
++ Wuxn-branded UI enhancements
++ Both MacOS and Windows supported
 
 ## Installers
 
 This repository contains the source code needed to compile and build WuxnSlicer software. 
-To use WuxnSlicer as intended please download our installers from our website at https://wuxn3d.com/pages/software-firmware.
+To use WuxnSlicer as intended, please download the installers from our website at https://wuxn3d.com/pages/software-firmware.
 
 # Change Log
-
-## **WuxnSlicer 1.2.6**
-
-WuxnSlicer 1.2.6 is the first installment of WuxnSlicer. Enjoy seemless printing with the preconfigured machine, material, and print profiles for the Wuxn 3D printers. WuxnSlicer has two themes, light and dark for both Windows and Machintosh. Along with the color enhancements each machine's build surface graphics have been embedded into the build volume for a more accurate physical representation.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65782241/205959896-17c74780-50fc-4f06-82dc-87b22a3f88f1.png" width=60% height=60%>
-</p>
-
-Simply upload your 3D model into WuxnSlicer and slice the object with the preconfigured settings.
-
-## **WuxnSlicer 1.2.7**
-
-WuxnSlicer 1.2.7 is the candidate developed to improve user experience and address numerous issues. 
-
-The following is a list of the updates: 
-+ Defualt printer at install has been updated to reflect our newest 3D printer, the Wuxn WXR. 
-+ Removed erronous material selections. 
-+ Cleaned up duplicate and out-dated entries in the Print Profile settings.
-+ Updated the default Print Profile Setttings from "Fine" to "GoTo".
-+ All icons have been updated to reflect Wuxn's new logo.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png" width=10% height=10%>
-</p>
 
 ## **WuxnSlicer 2.0.0**
 
@@ -62,6 +38,30 @@ WuxnSlicer 2.0.0 Core Updates:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213571241-ed40a738-4af3-4141-a64a-d90bd7da3db3.png"
 </p>
+
+## **WuxnSlicer 1.2.7**
+
+WuxnSlicer 1.2.7 is the candidate developed to improve user experience and address numerous issues. 
+
+The following is a list of the updates: 
++ Default printer at install has been updated to reflect our newest 3D printer, the Wuxn WXR. 
++ Removed erronous material selections. 
++ Cleaned up duplicate and out-dated entries in the Print Profile settings.
++ Updated the default Print Profile Setttings from "Fine" to "GoTo".
++ All icons have been updated to reflect Wuxn's new logo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png" width=10% height=10%>
+</p>
+
+## **WuxnSlicer 1.2.6**
+
+WuxnSlicer 1.2.6 is the first installment of WuxnSlicer. Enjoy seemless printing with the preconfigured machine, material, and print profiles for the Wuxn 3D printers. WuxnSlicer has two themes, light and dark, for both Windows and MacOS. Along with the color enhancements each machine's build surface graphics have been embedded into the build volume for a more accurate physical representation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65782241/205959896-17c74780-50fc-4f06-82dc-87b22a3f88f1.png" width=60% height=60%>
+</p>
+
+Simply upload your 3D model into WuxnSlicer and slice the object with the preconfigured settings.
 
 # Compiling
 
