@@ -45,6 +45,7 @@ The following is a list of the updates:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/205971380-878edf4b-c695-4042-bec6-5999b1a7eb6c.png" width=10% height=10%>
 </p>
+
 ## **WuxnSlicer 2.0.0**
 
 WuxnSlicer 2.0.0 marks the first official release of our 3D printer software. With this new release experience the power and efficient of the Arachne Engine along with enchanced print settings. Now with over 3000+ pre configured settings experience high level print quality and fast print speeds.
