@@ -68,6 +68,7 @@ WuxnSlicer 2.0.0 Core Updates:
 <details>
 <summary>One time set up for MacOS</summary>
 <br>
+
 ## Xcode & Command Line Tools
 
 1. Go to the Mac App Store, search for "Xcode" and press "Get".
@@ -456,6 +457,7 @@ sudo xcrun altool --notarization-info {RequestUUID} -u {email}
 <details>
 <summary>One time set up for Windows</summary>
 <br>
+
 ### Note
 
 These instructions are taking for granted that the user is using a Windows 10 machine with a Windows version >= 1809 (i.e., OS Build 17763). In order to check your version of Windows you can either click on 'Start' and write `winver` and press `Enter` or using powershell you can enter:
