@@ -1,4 +1,4 @@
-![WuxnSlicer Logo v2](https://user-images.githubusercontent.com/65782241/213608779-ce407704-62c2-49cd-b2b1-abc34cd3aa85.png) width=60% height=60%
+<img src="https://user-images.githubusercontent.com/65782241/213608779-ce407704-62c2-49cd-b2b1-abc34cd3aa85.png" width=60% height=60%>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213582292-2fd3b5b3-e5ec-4ea1-b3fc-263f71906423.png" width=60% height=60%>
