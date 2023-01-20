@@ -818,7 +818,7 @@ WuxnSlicer is liscensed under the GNU Affero General Public License, version 3. 
 
 # Disclaimer
 
-There is no warranty for the program, to the extent permitted by applicable law.  Wuxn provides this program "as is" without warrenty of any kind, either expressed or implied, inlcuding, but not limited to, the implied warrenties of merchantability and fitness for a particular purpose.  The entire risk as to the quality and performance of the program is with you.  
+There is no warranty for the program, to the extent permitted by applicable law.  Wuxn provides this program "as is" without warrenty of any kind, either expressed or implied, inlcuding, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.  The entire risk as to the quality and performance of the program is with you.  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <footer>
