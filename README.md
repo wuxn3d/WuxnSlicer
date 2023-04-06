@@ -22,6 +22,48 @@ To use WuxnSlicer as intended, please download the installers from our website a
 
 # Change Log
 
+## **WuxnSlicer 2.0.1**
+
+WuxnSlicer 2.0.1 presents improvements to our slicing software, focusing on a more streamlined user experience. By unifying the settings options and refining the workflow, we've enhanced the software's ease of use. Furthermore, we have fine-tuned material settings and upgraded print profiles to ensure better results. WuxnSlicer 2.0.1 delivers a smoother and more dependable experience for all users.
+
+WuxnSlicer 2.0.1 Core Updates
++ Basic and Advanced User Setting Modes
++ Removed Inactive Options and Features
++ Automatically Switch from “Active” to “Preview” Window After Slicing Completes
++ Improved Print Profile Settings
++ Added Firmware and Store Updates and Notifications
++ File Naming Enhancements
+
+### Basic and Advanced User Setting Modes
+We have introduced two new settings modes for added versatility. The basic mode offers a limited selection of settings, focusing on those commonly adjusted when changing materials. Alternatively, the advanced mode can be activated to reveal a comprehensive array of settings specifically tailored for the Wuxn WXR. This dual-mode approach caters to users with varying levels of expertise and requirements.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65782241/230501193-b394e389-b5ff-47aa-b455-db8799d345f8.jpg" width=60% height=60%>
+</p>
+<p align="center">
+Basic (purple) vs. Advanced (yellow) settings modes.
+</p>
+
+### Automatic “Active” to “Preview” Window
+We highly recommend examining the G-code preview after processing a file, particularly for the initial layer. Uneven or misaligned first layers can occur in some 3D models. To facilitate this inspection process, the Preview window will now conveniently appear automatically upon selecting the Slice option, streamlining the review experience.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65782241/230502242-0e9fb1f1-deb3-4d0c-bb25-12e286a2078d.JPG" width=60% height=60%>
+</p>
+<p align="center">
+Inspect the layers using the slider on the right and bottom of the window before exporting your G-code.
+</p>
+
+### Improved Print Profile Settings
+The print profiles have been revamped to enhance performance and dependability. Modifications to the settings have significantly reduced slicing time; for instance, a model that previously took two minutes to slice can now be processed in roughly 30 seconds. Additionally, print time estimates have been refined for greater accuracy, with a maximum variance of just two minutes instead of the previous five-minute discrepancy. Finally, we have identified further settings adjustments that decrease the occurrence of layer shifts, significantly improving the user experience.
+
+### File Naming Enhancements
+In version 2.0.1 of WuxnSlicer, we have enhanced the organization of the filename output for G-code files. The new structure for the exported G-code file names is as follows:
+PartName_Machine_Material_PrintProfile.gcode
+
+For example, the output would resemble:
+3DBenchy_WXR_ClassicPETG_Fast.gcode
+
+This improved categorization allows for easier identification and management of your G-code files.
+
 ## **WuxnSlicer 2.0.0**
 
 WuxnSlicer 2.0.0 marks the first official release of our 3D printer software. With this new release experience the power and efficient of the Arachne Engine along with enchanced print settings. Now with over 3000+ pre configured settings experience high level print quality and fast print speeds.
